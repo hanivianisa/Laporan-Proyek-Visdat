@@ -6,14 +6,14 @@ https://public.tableau.com/views/ProfilStatistikKesehatan2021/Story?:language=en
 ## Pengumpulan dan preprocessing data
 Data bersumber dari Profil Statistik Kesehatan 2021 oleh Badan Pusat Statistik (BPS) serta data shp provinsi Indonesia. 
 Data yang digunakan antara lain:
-1.	Persentase Penduduk yang Mempunyai Keluhan Kesehatan dalam Sebulan Terakhir Menurut Provinsi, serta Menurut Kelompok Umur
-2.	Persentase Penduduk yang Mempunyai Keluhan Kesehatan dalam Sebulan Terakhir dan Mengakibatkan Terganggunya Kegiatan Sehari-hari Menurut Provinsi, serta Menurut Kelompok Umur
-3.	Persentase Penduduk yang Mempunyai Keluhan Kesehatan dan Pernah Mengobati Sendiri dalam Sebulan Terakhir Menurut Provinsi, serta Menurut Kelompok Umur
-4.	Persentase Penduduk yang Mempunyai Keluhan Kesehatan dan Pernah Rawat Jalan dalam Sebulan Terakhir Menurut Provinsi, serta Menurut Kelompok Umur
-5.	Persentase Penduduk yang Pernah Rawat Inap dalam Setahun Terakhir Menurut Provinsi, serta Menurut Kelompok Umur
-6.	Persentase Penduduk Berumur Lima Tahun ke Atas yang Merokok selama Sebulan Terakhir Menurut Provinsi, serta Menurut Kelompok Umur
-7.	Persentase Penduduk yang Pernah Melakukan Test COVID-19 Menurut Provinsi dan Jenis Test, serta Menurut Kelompok Umur dan Jenis Test
-8.	Persentase Penduduk yang Memiliki Jaminan Kesehatan Menurut Provinsi, serta Kelompok Umur
+1.	Persentase penduduk yang mempunyai keluhan kesehatan dalam sebulan terakhir menurut provinsi, serta menurut kelompok umur tahun 2019-2021
+2.	Persentase penduduk yang mempunyai keluhan kesehatan dalam sebulan terakhir dan mengakibatkan terganggunya kegiatan sehari-hari menurut provinsi, serta menurut kelompok umur tahun 2019-2021
+3.	Persentase penduduk yang mempunyai keluhan kesehatan dan pernah mengobati sendiri dalam sebulan terakhir menurut provinsi, serta menurut kelompok umur tahun 2019-2021
+4.	Persentase penduduk yang mempunyai keluhan kesehatan dan pernah rawat jalan dalam sebulan terakhir menurut provinsi, serta menurut kelompok umur tahun 2019-2021
+5.	Persentase penduduk yang pernah rawat inap dalam setahun terakhir menurut provinsi, serta menurut kelompok umur tahun 2019-2021
+6.	Persentase penduduk berumur lima tahun ke atas yang merokok selama sebulan terakhir menurut provinsi, serta menurut kelompok umur tahun 2019-2021
+7.	Persentase penduduk yang pernah melakukan test covid-19 menurut provinsi dan jenis test, serta menurut kelompok umur dan jenis test tahun 2021
+8.	Persentase penduduk yang memiliki jaminan kesehatan menurut provinsi, serta kelompok umur
 
 Setelah data dikumpulkan, kemudian data digabungkan ke dalam bentuk excel. Data dibuat ke dalam dua tabel excel, yaitu berdasarkan provinsi dan kelompok umur. Data diatur dan disusun sedemikian rupa sehingga dapat dibaca oleh perangkat lunak Tableau dan dibuat visualisasinya. Data terdiri dari 6 kolom, yaitu Provinsi/Kelompok Umur, Persentase Penduduk, Tahun, Informasi, dan Kategori. Data menurut provinsi terdiri dari 816 baris, sedangkan menurut kelompok umur terdiri dari 309 baris. Untuk kolom provinsi, sesuaikan isinya dengan provinsi pada data shp provinsi Indonesia. Berikut contoh data yang sudah dilakukan preprocessing.
 
