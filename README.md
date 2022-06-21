@@ -89,7 +89,7 @@ Untuk memudahkan pengguna agar dapat melihat visualisasi data menurut provinsi d
 6.  Tarik sheet ProvMap ke bawah chart Kelompok Umur.
 7.  Setelah itu, tarik sheet ProvBarChart ke bawah choropleth map. Klik kanan dan pilih Hide Title.
 8.  Hapus legend Persentase. 
-9.  Tarik sheet Legend ke bawah filter Tahun, kemudian pilih Hide Title dan Floating. Atur ukurannya menjadi sekecil mungkin. Pindahkan ke pojok kanan bawah.
+9.  Tarik sheet Legend ke bawah filter Tahun, kemudian pilih Hide Title dan Floating. Atur ukurannya menjadi sekecil mungkin. Pindahkan ke pojok kanan bawah. Legend Persentase dari sheet Legend menjadi legend baru yang akan digunakan.
 10.  Atur urutan filter dan legend pada kolom sebelah kanan yang berisi filter dan legend.
 11.  Pada filter Chart type, hapus ceklis Show Title. Ubah menjadi Single Value List kemudian pilih Floating. Pindahkan ke dalam chart Provinsi.
 12.  Pada kolom sebelah kanan, klik kanan kemudian pilih Distribute Contents Evenly.
